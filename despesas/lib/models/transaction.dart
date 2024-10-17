@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 class Transaction {
   final String id;
   final String title;
